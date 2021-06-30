@@ -1,6 +1,6 @@
 # Car Sales 2017
 An open-source data dashboard for the popular car sales dataset. Built with Flask, Pandas and Plotly.
-You can find the original dataset [here]().
+You can find the original dataset [here](https://www.kaggle.com/gagandeep16/car-sales).
 
 ## Details 
 I built this dashboard as an exercise for Udacity's ML Engineering Nanodegree. You can see a 
