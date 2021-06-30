@@ -17,7 +17,8 @@ To run this app, you can first clone this repo. Then I recommend creating a virt
 python -m venv carenv
 source carenv/bin/activate
 pip install -r requirements.txt
-``
+```
+
 Then you can run the app locally:
 ```{console}
 python myapp.py
