@@ -3,7 +3,7 @@ An open-source data dashboard for the popular car sales dataset. Built with Flas
 You can find the original dataset [here](https://www.kaggle.com/gagandeep16/car-sales).
 
 ## Details 
-I built this dashboard as an exercise for Udacity's ML Engineering Nanodegree. You can see a 
+I designed and built this dashboard as an exercise for Udacity's ML Engineering Nanodegree. You can see a 
 modified version deployed on heroku [here](https://car-sales-2017.herokuapp.com/).
 This code is slightly different, and is designed to be run locally. It uses python's plotly library
 to create dynamic visualizations. The backend is handled by Flask, and the data is wrangled using
